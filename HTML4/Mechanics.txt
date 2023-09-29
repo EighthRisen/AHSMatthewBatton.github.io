@@ -1,0 +1,63 @@
+ <!DOCTYPE html>
+<html lang="en">
+      <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MB Esports</title>
+    <link href="stylesheets/mechanics.css" rel="stylesheet"/>
+  </head>
+<body>
+
+<ul>
+  <li><a href="homepage.html" target="_self">Home</a></li>
+  <li><a href="Mechanics.html" target="_self">Mechanics</a></li>
+  <li><a href="Blogs.html" target="_self">Blogs</a></li>
+</ul> 
+
+<h1>What is this page?</h1>
+<p>This page is filled with terminology and mechanics targeted toward beginners in Overwatch 2. It is important to know all of the terms listed below as a starting point to improve at this game. Although it may be a lot of information a lot of it will come to you in time so there is no rush to know everything.</p>
+
+<h2>What is Overwatch 2?
+<p>Overwatch 2 is a free-to-play 5v5 run-and-gun FPS developed by Blizzard. You choose a character in one of the 3 roles (TANK, DPS, SUPPORT) with unique abilities and weapons and face another team in many game modes such as Control and Escort.</p>
+
+<h2>How Hard is it to Learn Overwatch 2</h2>
+<p>Overwatch 2 is rather easy to pick up to play casually, but the skill ceiling is incredibly high.</p>
+
+<h2>What Role Should You Play?</h2>
+<p>If you are starting out the roll if the lowest skill floor is support. If you want to maximize your usefulness play support, but I recommend playing whatever seems fun to you.</p>
+
+<h2>Ratings & ESRB Rating</h2>
+<p>This game is considered T for teens for blood, and fantasy violence, and sometimes you get told some not so T for teens friendly things.</p>
+
+<h1>Terminology/Mechanics</h1>
+
+<h2>HOW TO IMPROVE</h2>
+<p>If you are new to the game the answer is simply play the game. Learn terminology, and what all the characters do. Once you have an adequate amount of time played, watch other peoples coaching sessions by content creators like Spilo and A10. A10 has an amazing playlist on fundementals and I recommended you build an understanding of all of those concepts if you plan on climbing.</h2>
+
+<h2>Corners</h2>
+<p>Point of the map that separates two open lines of sight. Corners act as cover for you, help with threats you are unaware of, and protect you while reloading so you aren’t just in the open. Many new players don't think about cover when playing an are constantly fighting in the open. Don't do that. High ground acts similar to a corner as in acting as cover because if you have high ground and simply walk backwards the platform you are on acts as cover.</p>
+
+
+<h2>Cooldowns</h2>
+<p>All characters play around cooldowns. Similar to a cycle. If they mess up their cycle they will usually be punished really hard. A classic example of this is Reaper. Typically he tries to walk up aggressively, and when in danger he uses Wraith Form to get out. Once his Wraith Form is back up he repeats this cycle. Learning the cycles of all the heroes will help you greatly when making in-game decisions. This also applies to ammo and hp. When you go in you want everything to be as high as possible. When reloading check your resources.</p>
+
+<h2>Roles</h2>
+<p>One Tank, two DPS, and two Supports. By understanding what you and your team is supposed to be doing you can have a better understanding of how to play. It is everyone's job to contribute to contesting space in Overwatch, but the Tanks how to physically hold that space you want, as if they were a wall. The DPS's job is to do as much damage as possible. Taking down priority targets will always be better than just dumping damage into a tank, but they always should be applying pressure with damage. Support is the glue of the team that not only heals but has a special utility that makes or breaks a game. It is very difficult to kill a tank if its supports are still alive. (the clip would have shown an example of this and the same goes for all the other terminology)</p>
+
+<h2>Teammates</h2>
+<p>You will always have teammates, but the only thing you can control is how you play, so you should only be concerned about yourself. Whether you win or lose you should be worried about how you could have been better or how you broke one of the fundamentals. By playing at a higher level it makes it easier for your team to play to and makes it seem like everyone is better. You are the only constant in every game.</h2>
+
+<h2>Objectives</h2>
+<p>Remember your goal is to get objectives. Killing enemies is a tool to get the objective. Every thing you do in Overwatch should contribute to creating space to controller the objective.</p>
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

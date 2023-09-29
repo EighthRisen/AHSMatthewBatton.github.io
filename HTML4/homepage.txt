@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+      <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MB Esports</title>
+    <link href="stylesheets/homepage.css" rel="stylesheet"/>
+  </head>
+<body>
+
+<ul>
+  <li><a href="homepage.html" target="_self">Home</a></li>
+  <li><a href="Mechanics.html" target="_self">Mechanics</a></li>
+  <li><a href="Blogs.html" target="_self">Blogs</a></li>
+</ul> 
+
+<div class="matthew">
+<h1>About Me</h1>
+<p>My name is Matthew Batton. The first time I played a computer game was when I was 3-4 and I have been hooked on video games since.
+   I am 17 and go to Allen High School, but before this, I lived in 5 states and was born in South Korea. AHS is the 7th school I have attended, and despite leaving friends, games have carried over to new places,
+    and technology like Discord helps me keep in touch with old pals.</p>
+    </div>
+    <h2>My Brief Gaming History</h2>
+
+<h3>Big Air Snow Show</h3>
+<h4>(Pre 2011)</h4>
+<p>This is the first video game I can recall playing. 
+  It was very simple, you go up and down a ramp and just hold the button of the direction you were going. I'm not sure exactly how old I was, 
+  but I was not enrolled in school yet.</p>
+  
+
+<h3>Minecraft</h3>
+<h4>(2012-2024)</h4>
+<p>Everyone has heard of the world's most sold video game of all time. 
+  Doing this project I could not recall what I did when I was younger before my video game hobby, 
+  but I remember the first time I encountered Minecraft was around the 1st grade. I saw my dad playing Minecraft, building a pirate ship with his friends. Later he let me try and I dug a hole to survive my first night from a skeleton. I put many hours into this game, and still occasionally play this game with new friends. It will always be fun to play. </p>
+ 
+<h3>Smite</h3>
+<h4>(2013-2016)</h4>
+<p>Smite was the first competitive kind of game I played. Smite is a MOBA (multiplayer online battle arena) like League of Legends. I learned of this game from my parents and played through the beta. The point-of-view instead of overhead is similar to games like WoW and other MMORPGs. The characters are based on mythology like Greek and Norse mythology. As a kid, I played characters like Thor because they were recognizable to me. I enjoyed playing this game and looking back on it I was probably really bad and angered a lot of people.</p>
+
+<h3>SWTOR</h3>
+<h4>(2013-2016)</h4>
+<p>STWOR stands for Star Wars the Old Republic (2013-2016). This game I also got into because of my father. It was one of the few MMORPGs I have grinded on. It was technically the first game I had some sort of pass or subscription to It was a very good story and I recommend it to someone even if you lack knowledge of the Star Wars universe.
+ </p>
+
+    <h3>Roblox</h3>
+<h4>(2016-2017)</h4>
+<p>This game was the first game I started playing with my own friends from school. At first I used skype to communicate then I discovered Discord. I had my first main friend group and we played every day during the summer between 5th and 6th grade.</p>
+
+    <h3>League of Legends</h3>
+<h4>(2017-Now)</h4>
+<p>In the summer of 2017, I made the "worst" decision of my life. After seeing some well-animated and entertaining ads by content creators on YouTube I installed League of Legends. Little did I know I would spend the following 5 years meeting many friends and having a blast playing this game. It is a staple component of how I am today.  
+</p>
+    </div>
+</body>
+</html>

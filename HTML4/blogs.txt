@@ -1,0 +1,40 @@
+ <!DOCTYPE html>
+<html lang="en">
+      <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MB Esports</title>
+    <link href="stylesheets/blogs.css" rel="stylesheet"/>
+  </head>
+<body>
+
+<ul>
+  <li><a href="homepage.html" target="_self">Home</a></li>
+  <li><a href="Mechanics.html" target="_self">Mechanics</a></li>
+  <li><a href="Blogs.html" target="_self">Blogs</a></li>
+</ul> 
+
+<h2>What makes video games so enticing and entertaining? What game did you play most recently?</h2>
+<p>Personally, I find video games so enticing because they are so competitive and challenging. In big name esports like SSB, Valorant, League of Legends, and fighting games you can always strive to be better. It is impossible to play perfectly yet you can always strive to be better.
+The last game I played was BOTW, but only opened the door to go outside the first area. Other than that the last game I played was League of Legends.</p>
+<p>Video games are fun for many reasons. Some of them include transporting us to new realities, we become something more than what we usually are. You can be a superhero, a mafia member, or even an animal. Another reason is to recognize our need for achievement. Although many games have an “end goal” there are many side quests and rewards you get throughout the game that reward you for playing. Even in online competitive games, you are rewarded at the end of each match with ranked points if you win or in-game currency although the end goal of that rank grind would be at the top. 
+</p>
+
+<h2>Find a review of a game, do you agree with them?</h2>
+<p>I agree with the problems he states. League is known for being toxic (though there are workarounds like the mute button if you are serious about winning), also account buying and boosting have been a huge issue in regions other than Korea. I disagree with his solution. If you force the NA region or EU regions to need their SSN to make an account the games would probably die in those regions. The South Korean culture that allows this system to flourish, does not exist in many other regions.</p>
+
+<h2>What would be your dream computer?</h2>
+<p>The ASUS - ROG Zephyrus is a truly amazing laptop. I already have a high-quality gaming PC, so having a more mobile device would be a convenience. Why this specific laptop over other ones though? Simply because it has really powerful specs. An NVIDIA RTX 4070, an I9, and, 16 gigs of ram. I can play any game I want to play and new releases without any problems related to my specs. Unfortunately, this laptop is $2000 dollars, but the investment should last you a very long time (and price isn’t a concern when someone asks me about my dream device).</p>
+
+<h2>What is toxicity in gaming? Why is it important to understand? How can we combat toxcitity?</h2>
+<p>Toxicity is anything you do to purposely do to belittle your teammates, this can come in the form of text messages or spam pinging them. It is important to understand toxicity to stop yourself from negatively affecting your teammates, and how to avoid toxicity so you can play at your maximum potential. You can combat toxicity by reporting toxic players. Another way is to mute them when they are being toxic so they do not affect your entire game.</p>
+
+<h2>What makes them a good team? What do they do well? What do they need to work on to get better?</h2>
+<p>The League of Legends Esports team at OU competes in NECC.
+   Their team is mid-high elo so obviously not the most perfect players. 
+   Something they could do better is draft. Their ADC has a very poor champ pool and so does their mind.
+    Oftentimes I watch both of them counter-pick themselves for no reason. Another thing that could be worked on is tracking the enemy jungle. Their top is often surprised when ganked, even though they should know that the enemy JG is in that area, and their jungle makes poor pathing decisions early. What they do well is that they are confident in who they play even if it is a "bad matchup", their skill pulls through the enemies and they still win often.
+     You could argue choosing a champ you are confident in is even better than picking for the sake of the match which is totally true, but as a competitive team, you should have more picks because if you are going to play some champs anyway they should have picked them earlier in a draft.</p>
+
+</body>
+</html>
+ 
